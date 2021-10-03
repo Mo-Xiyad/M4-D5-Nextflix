@@ -1,3 +1,4 @@
+// http://www.omdbapi.com/  ==========>    API 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import Galleries from "./components/Galleries";
